@@ -15,6 +15,6 @@ En esta demostración haré lo siguiente:
 ## subtitulo 2
 
 ## subtitulo final
-haga click [aquí](www.google.com) para ir a google.
+haga click [aquí](https://www.google.com) para ir a google.
 
 Bla bla bla
