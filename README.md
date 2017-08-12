@@ -1,4 +1,4 @@
-# clase.project-py
+﻿# clase.project-py
 Primer ejemplo de repositorio de clase de ciencia de los datos
 Entre al README y clieck en editar, con esta opción puedo editar el README.
 En esta demostración haré lo siguiente:
@@ -18,3 +18,5 @@ En esta demostración haré lo siguiente:
 haga click [aquí](https://www.google.com) para ir a google.
 
 Bla bla bla
+
+## Esta es una nueva línea agreagada desde el master - segunda rama para el ejemplo
